@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create react app",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "JSON Server api",
+      "done": true
+    },
+    {
+      "id": 3,
+      "content": "Chakra UI",
+      "done": false
+    },
+    {
+      "id": "01GQ17FWZ8VVD43EZHB08H9JWP",
+      "content": "new todo",
+      "done": false
+    },
+    {
+      "id": "01GQ19FG9CJAKHQV6FYMZQ8S9P",
+      "content": "helloflex ",
+      "done": false
+    }
+  ]
+}
